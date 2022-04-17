@@ -4,7 +4,8 @@ body {
 }
 
 .bg {
-  background-image: url(https://wallpapercave.com/wp/wp6605177.jpg);
+  /* background-image: url(https://wallpapercave.com/wp/wp6605177.jpg); */
+  background-color: rgba(0, 0, 0, 0.595);
   text-align: center;
   width: 75em;
   height: 750px;
